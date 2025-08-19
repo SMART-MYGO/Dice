@@ -1,0 +1,5 @@
+{
+  "name": "Dice Cube Arena",
+  "description": "A simple and fun dice game built with React and Tailwind CSS. Play against the computer, a friend locally, or simulate an online match. The first player to reach the target score wins!",
+  "requestFramePermissions": []
+}
